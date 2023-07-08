@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Matima</h1>
-<h3>A full stack web developer!</h3>
-
+<h3>I'm a full stack web developer! I live in Iran </h3>
 
 - 🔭 I’m currently working on [.](h)
 
@@ -8,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [.](h)
 
-- 🤝 I’m looking for help with [.](h)
+<!--- - 🤝 I’m looking for help with [.](h) --->
 
 - 👨‍💻 All of my projects are available at [.](.)
 
