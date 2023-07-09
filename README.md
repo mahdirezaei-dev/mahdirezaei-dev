@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Matima</h1>
-<h3>I'm a full stack web developer! I live in Iran </h3>
+<h3>I'm a full stack web developer!</h3>
 
 - 🔭 I’m currently working on [.](h)
 
