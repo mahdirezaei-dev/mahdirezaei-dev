@@ -1,17 +1,17 @@
 <h1>Hi 👋, I'm Matima</h1>
 <h3>I'm a full stack web developer!</h3>
 
-- 🔭 I’m currently working on [.](h)
+- 🔭 I’m currently working on Laravel(h)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👯 I’m looking to collaborate on [.](h)
 
 <!--- - 🤝 I’m looking for help with [.](h) --->
 
-- 👨‍💻 All of my projects are available at [.](.)
+- 👨‍💻 All of my projects are available at [https://google.com](.)
 
-- 💬 Ask me about **Vue and Laravel**
+- 💬 Ask me about **PHP and Laravel**
 
 - 📫 How to reach me **mahdirezaei.dev@gmail.com**
 
