@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Matima</h1>
 <h3>I'm a full stack web developer!</h3>
 
-- 🔭 I’m currently working on Laravel(h)
+- 🔭 I’m currently working on Laravel
 
 - 🌱 I’m currently learning **Vue.js**
 
