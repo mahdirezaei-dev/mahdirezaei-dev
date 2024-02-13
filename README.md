@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
+<!---
 - 👯 I’m looking to collaborate on [.](h)
 
-<!--- - 🤝 I’m looking for help with [.](h) --->
+ - 🤝 I’m looking for help with [.](h)
+--->
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahdirezaei-dev?tab=repositories](.)
+- 👨‍💻 All of my projects are available at [https://github.com/rastclick](.)
 
 - 💬 Ask me about **PHP and Laravel**
 
