@@ -29,7 +29,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=FF5733)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 
-![Postgresql](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=mysql)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 
 
 
