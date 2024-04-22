@@ -30,12 +30,6 @@
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 
 
-![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-
-![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-
-![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
 
 <!--- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp; --->
 <!--- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; --->
