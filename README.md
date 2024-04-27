@@ -1,24 +1,19 @@
 <h1>Hi 👋, I'm Matima</h1>
-<h3>I'm a full stack web developer!</h3>
+My name is Mahdi Rezaei but I prefer to be called Matima. I am a freelance web developer living Iran. 
 
-- 🔭 I’m currently working on Laravel
 
-- 🌱 I’m currently learning **Vue.js**
+<h3>About Me:</h3>
 
-<!---
-- 👯 I’m looking to collaborate on [.](h)
+- 🔭 I'm currently working as a freelancer
 
- - 🤝 I’m looking for help with [.](h)
---->
-
-- 💬 Ask me about **PHP and Laravel**
+- 🌱 I'm currently learning **Vue.js** & **MongoDB**
 
 - 📫 How to reach me **mahdirezaei.dev@gmail.com**
 
-⚠️ *My repositories are available at [https://github.com/rastclick](.)*
+- 🗂 My repositories are available at [https://github.com/rastclick](.)
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdirezaei_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdirezaei_dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mahdirezaei_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mahdirezaei_dev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdirezaei_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mahdirezaei_dev) 
 
 ## Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -28,11 +23,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=FF5733)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Postgreesql](https://img.shields.io/badge/-Postgreesql-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 
-
-
-
-<!--- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp; --->
-<!--- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; --->
