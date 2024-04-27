@@ -8,9 +8,9 @@ My name is Mahdi Rezaei but I prefer to be called Matima. I am a freelance web d
 
 - 🌱 I'm currently learning **Vue.js** & **MongoDB**
 
-- 📫 How to reach me **mahdirezaei.dev@gmail.com**
+- 📫 How to reach me [mahdirezaei.dev@gmail.com](mailto:mahdirezaei.dev@gmail.com)
 
-- 🗂 My repositories are available at [https://github.com/rastclick](.)
+- 🗂 My repositories are available at [https://github.com/rastclick](https://github.com/rastclick)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdirezaei_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mahdirezaei_dev) 
