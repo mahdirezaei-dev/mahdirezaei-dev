@@ -6,7 +6,7 @@ My name is Mahdi Rezaei but I prefer to be called Matima. I am a freelance web d
 
 - 🔭 I'm currently working as a freelancer
 
-- 🌱 I'm currently learning **Vue.js** & **MongoDB**
+- 🌱 I'm currently learning **Vue.js** & **React**
 
 - 📫 How to reach me [mahdirezaei.dev@gmail.com](mailto:mahdirezaei.dev@gmail.com)
 
@@ -24,6 +24,4 @@ My name is Mahdi Rezaei but I prefer to be called Matima. I am a freelance web d
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=FF5733)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
-![Postgreesql](https://img.shields.io/badge/-Postgreesql-05122A?style=flat&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 
