@@ -6,7 +6,7 @@ My name is Mahdi Rezaei but I prefer to be called Matima. I'm a web developer wh
 
 - 💼 Currently, I work at @sanishahr
 
-- 💜 I'm interested in **Crypto currencies**, **Blockchain** and **Video games**
+- 💜 I'm interested in Blockchain and Web 3
 
 - 📫 How to reach me [mahdirezaei.dev@gmail.com](mailto:mahdirezaei.dev@gmail.com)
 
