@@ -1,12 +1,12 @@
-<h1>Hi 👋, I'm Matima</h1>
-My name is Mahdi Rezaei but I prefer to be called Matima. I am a freelance web developer living Iran. 
+<h1>Hello World 👋</h1>
+My name is Mahdi Rezaei but I prefer to be called Matima. I'm a web developer who started his career from 2015. 
 
 
-<h3>About Me:</h3>
+<h3>About me:</h3>
 
-- 🔭 I'm currently working at @sanishahr
+- 💼 Currently, I work at @sanishahr
 
-- 🌱 I'm currently learning **Vue.js** & **React**
+- 💜 In addition to programming I'm interested in crypto currencies and video games
 
 - 📫 How to reach me [mahdirezaei.dev@gmail.com](mailto:mahdirezaei.dev@gmail.com)
 
