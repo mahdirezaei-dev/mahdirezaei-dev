@@ -8,6 +8,8 @@ My name is Mahdi Rezaei but I prefer to be called Matima. I'm a web developer wh
 
 - 💜 I'm interested in Blockchain and Video games
 
+- 📡 I'm ready for the remote
+
 - 📫 How to reach me [mahdirezaei.dev@gmail.com](mailto:mahdirezaei.dev@gmail.com)
 
 - 🗂 My repositories are available at [https://github.com/rastclick](https://github.com/rastclick)
