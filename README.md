@@ -4,11 +4,9 @@ My name is Mahdi Rezaei but I prefer to be called Matima. I'm a web developer wh
 
 <h3>About me:</h3>
 
-- 💼 Currently, I work at @sanishahr
+- 💜 I'm interested in Blockchain and Web 3
 
-- 💜 I'm interested in Blockchain and Video games
-
-- 📡 I'm ready for the remote
+- 💼 I'm ready for the remote job
 
 - 📫 How to reach me [mahdirezaei.dev@gmail.com](mailto:mahdirezaei.dev@gmail.com)
 
