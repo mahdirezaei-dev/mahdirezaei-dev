@@ -1,10 +1,10 @@
 <h1>Hello World 👋</h1>
-My name is Mahdi Rezaei but I prefer to be called Matima. I'm a web developer who started his career from 2015. 
+My name is Mahdi Rezaei. I'm a fullstack web developer who started his career from 2015. 
 
 
 <h3>About me:</h3>
 
-- 💜 I'm interested in Blockchain and Web 3
+- 💜 I'm interested in Blockchain and web3 technologies
 
 - 💼 I'm ready for the remote job
 
