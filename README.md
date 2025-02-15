@@ -21,9 +21,9 @@ My name is Mahdi Rezaei. I'm a fullstack web developer who started his career fr
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Laravel](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Laravel](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
-![Laravel](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-![Laravel](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Laravel](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
-
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
