@@ -22,4 +22,4 @@ My name is Mahdi Rezaei. I'm a fullstack web developer who started his career fr
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Laravel](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js)&nbsp;
+![Laravel](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
