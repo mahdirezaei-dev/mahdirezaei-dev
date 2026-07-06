@@ -1,28 +1,76 @@
-<h1>Hello World 👋</h1>
-My name is Mahdi Rezaei. I'm a fullstack web developer who started his career from 2018. 
+# Hi, I'm Mahdi Rezaei 👋
 
+Backend Software Engineer with a strong interest in building scalable, reliable, and maintainable backend systems.
 
-<h3>About me:</h3>
+I enjoy designing distributed systems, exploring software architecture, and contributing to open-source projects. My primary focus is Go, while I also have professional experience with PHP and modern backend technologies.
 
-- 💜 I'm interested in Blockchain and web3 technologies
+---
 
-- 💼 I'm ready for the remote job
+## What I'm working on
 
-- 📫 How to reach me [mahdirezaei.dev@gmail.com](mailto:mahdirezaei.dev@gmail.com)
+- Building open-source Go libraries
+- Designing distributed systems
+- Writing technical articles about backend engineering
+- Learning Kubernetes and cloud-native technologies
 
-- 🗂 My repositories are available at [https://github.com/rastclick](https://github.com/rastclick)
+---
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mahdirezaei_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mahdirezaei_dev) 
+## Open Source
 
-## Tech Stack:
-![PHP](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+Some of my projects include:
+
+- gRPC Tracker
+- MCP Framework for Go
+- Retry Library
+- High-performance backend utilities
+
+More projects are available in my GitHub Organization.
+
+---
+
+## Articles
+
+I write about backend engineering, distributed systems, PostgreSQL internals, and software architecture.
+
+Upcoming articles include:
+
+- Designing an Event-Driven Push Notification Platform
+- Why PostgreSQL Is Fast
+- Journey Into PostgreSQL Internals
+- How Uber Finds the Nearest Driver
+
+---
+
+## Tech Stack
+
+**Languages**
+
+Go • PHP • JavaScript
+
+**Backend**
+
+gRPC • REST • Redis • PostgreSQL • MongoDB • Kafka • RabbitMQ
+
+**Cloud & DevOps**
+
+Docker • Kubernetes • GitHub Actions • Linux
+
+**Architecture**
+
+Clean Architecture • DDD • Event-Driven Architecture • Microservices
+
+---
+
+## GitHub Organization
+
+My open-source work lives in my GitHub Organization.
+
+👉 https://github.com/codenaline
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/<username>
+- Medium: https://medium.com/@<username>
+- Email: [mahdirezaei.dev@gmail.com](mailto:mahdirezaei.dev@gmail.com)
