@@ -1,76 +1,92 @@
 # Hi, I'm Mahdi Rezaei 👋
 
-Backend Software Engineer with a strong interest in building scalable, reliable, and maintainable backend systems.
+Backend Software Engineer with 5+ years of experience building backend applications and distributed systems using Go and PHP. I enjoy designing reliable software, building developer tools, and contributing to open source.
 
-I enjoy designing distributed systems, exploring software architecture, and contributing to open-source projects. My primary focus is Go, while I also have professional experience with PHP and modern backend technologies.
+Most of my open-source projects are published under the **CodeNaLine** organization.
 
----
-
-## What I'm working on
-
-- Building open-source Go libraries
-- Designing distributed systems
-- Writing technical articles about backend engineering
-- Learning Kubernetes and cloud-native technologies
+→ https://github.com/codenaline
 
 ---
 
-## Open Source
+## About
 
-Some of my projects include:
+I focus on building software that is:
 
-- gRPC Tracker
-- MCP Framework for Go
-- Retry Library
-- High-performance backend utilities
+- Reliable
+- Maintainable
+- Scalable
+- Easy to understand
 
-More projects are available in my GitHub Organization.
-
----
-
-## Articles
-
-I write about backend engineering, distributed systems, PostgreSQL internals, and software architecture.
-
-Upcoming articles include:
-
-- Designing an Event-Driven Push Notification Platform
-- Why PostgreSQL Is Fast
-- Journey Into PostgreSQL Internals
-- How Uber Finds the Nearest Driver
+My primary interests include backend engineering, distributed systems, messaging, software architecture, observability, and developer experience.
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-Go • PHP • JavaScript
+- Go
+- PHP
+- JavaScript
 
-**Backend**
+### Frameworks
 
-gRPC • REST • Redis • PostgreSQL • MongoDB • Kafka • RabbitMQ
+- Laravel
+- Gin
 
-**Cloud & DevOps**
+### Databases
 
-Docker • Kubernetes • GitHub Actions • Linux
+- MySQL
+- PostgreSQL
+- Redis
+- Elasticsearch
 
-**Architecture**
+### Messaging
 
-Clean Architecture • DDD • Event-Driven Architecture • Microservices
+- NATS
+- RabbitMQ
+
+### Infrastructure
+
+- Docker
+- Kubernetes
+- Linux
+- GitHub Actions
+
+### Observability
+
+- Prometheus
+- Grafana
+- OpenTelemetry
+- Sentry
 
 ---
 
-## GitHub Organization
+## Current Focus
 
-My open-source work lives in my GitHub Organization.
+I'm currently focused on:
 
-👉 https://github.com/codenaline
+- Building production-ready Go libraries
+- Distributed systems
+- Event-driven architectures
+- Backend infrastructure
+- Open-source developer tools
 
 ---
 
-## Connect
+## Open Source
 
-- LinkedIn: https://linkedin.com/in/<username>
-- Medium: https://medium.com/@<username>
-- Email: [mahdirezaei.dev@gmail.com](mailto:mahdirezaei.dev@gmail.com)
+I believe good developer tools should be simple, well documented, and production ready.
+
+Most of my open-source work is available under the **CodeNaLine** organization:
+
+https://github.com/codenaline
+
+---
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mahdirzv/)
+- [Email](mailto:mahdirezaei.dev@gmail.com)
+
+Thanks for stopping by.
