@@ -4,7 +4,7 @@ I've spent the last 6+ years building backend systems and APIs, mostly working w
 
 I'm passionate about software engineering beyond frameworks — from designing efficient data processing tools to building open-source Go libraries focused on performance and simplicity. I enjoy understanding how systems work under the hood and turning real-world problems into reliable solutions.
 
-## Open Source
+## Open Source Projects
 
 - [codenaline/batchgo](https://github.com/codenaline/batchgo) - generic, bounded, and concurrent batching engine for Go
 - [codenaline/jsonl](https://github.com/codenaline/jsonl) - zero-allocation JSON Lines toolkit for streaming large datasets in Go
