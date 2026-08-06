@@ -6,8 +6,10 @@ I'm passionate about software engineering beyond frameworks — from designing e
 
 ## Open Source
 
+- [codenaline/batchgo](https://github.com/codenaline/batchgo) - generic, bounded, and concurrent batching engine for Go
+- [codenaline/jsonl](https://github.com/codenaline/jsonl) - zero-allocation JSON Lines toolkit for streaming large datasets in Go
+- [codenaline/laravel-idempotency](https://github.com/codenaline/laravel-idempotency) - idempotency middleware for building reliable Laravel APIs
 
----
 
 ## Let's Connect
 
