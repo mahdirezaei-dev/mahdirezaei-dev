@@ -1,86 +1,11 @@
-# Hi, I'm Mahdi Rezaei 👋
+# Hey 👋, I'm Mahdi!
 
-Backend Software Engineer with 5+ years of experience building backend applications and distributed systems using Go and PHP. I enjoy designing reliable software, building developer tools, and contributing to open source.
+I've spent the last 6+ years building backend systems and APIs, mostly working with PHP/Laravel and more recently Go. I've worked on platforms handling large amounts of data, real-time services, and scalable backend architectures.
 
-Most of my open-source projects are published under the **CodeNaLine** organization.
-
-→ https://github.com/codenaline
-
----
-
-## About
-
-I focus on building software that is:
-
-- Reliable
-- Maintainable
-- Scalable
-- Easy to understand
-
-My primary interests include backend engineering, distributed systems, messaging, software architecture, observability, and developer experience.
-
----
-
-## Tech Stack
-
-### Languages
-
-- Go
-- PHP
-- JavaScript
-
-### Frameworks
-
-- Laravel
-- Gin
-
-### Databases
-
-- MySQL
-- PostgreSQL
-- Redis
-- Elasticsearch
-
-### Messaging
-
-- NATS
-- RabbitMQ
-
-### Infrastructure
-
-- Docker
-- Kubernetes
-- Linux
-- GitHub Actions
-
-### Observability
-
-- Prometheus
-- Grafana
-- OpenTelemetry
-- Sentry
-
----
-
-## Current Focus
-
-I'm currently focused on:
-
-- Building production-ready Go libraries
-- Distributed systems
-- Event-driven architectures
-- Backend infrastructure
-- Open-source developer tools
-
----
+I'm passionate about software engineering beyond frameworks — from designing efficient data processing tools to building open-source Go libraries focused on performance and simplicity. I enjoy understanding how systems work under the hood and turning real-world problems into reliable solutions.
 
 ## Open Source
 
-I believe good developer tools should be simple, well documented, and production ready.
-
-Most of my open-source work is available under the **CodeNaLine** organization:
-
-https://github.com/codenaline
 
 ---
 
