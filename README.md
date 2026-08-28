@@ -6,9 +6,10 @@ I'm passionate about software engineering beyond frameworks — from designing e
 
 ## Open Source Projects
 
-- [codenaline/batchgo](https://github.com/codenaline/batchgo) - generic, bounded, and concurrent batching engine for Go
-- [codenaline/jsonl](https://github.com/codenaline/jsonl) - zero-allocation JSON Lines toolkit for streaming large datasets in Go
-- [codenaline/laravel-idempotency](https://github.com/codenaline/laravel-idempotency) - idempotency middleware for building reliable Laravel APIs
+- 💳 [codenaline/payment](https://github.com/codenaline/payment) - payment abstraction for Go
+- 🗂️ [codenaline/batchgo](https://github.com/codenaline/batchgo) - generic, bounded, and concurrent batching engine for Go
+- 🚀 [codenaline/jsonl](https://github.com/codenaline/jsonl) - zero-allocation JSON Lines toolkit for streaming large datasets in Go
+- 🔁 [codenaline/laravel-idempotency](https://github.com/codenaline/laravel-idempotency) - idempotency middleware for building reliable Laravel APIs
 
 
 ## Let's Connect
@@ -17,3 +18,7 @@ I'm passionate about software engineering beyond frameworks — from designing e
 - [Email](mailto:mahdirezaei.dev@gmail.com)
 
 Thanks for stopping by.
+
+<p align="center">
+  <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/18625122-1238-4991-b254-2b0013d04ca1" />
+</p>
